@@ -1,3 +1,4 @@
+```
 # prepare
 git clone https://github.com/uZer/yaml-ls-check-debug
 git clone https://github.com/InoUno/yaml-ls-check.git
@@ -10,3 +11,4 @@ pnpm install
 
 # run
 pnpm run start ../yaml-ls-check-debug/manifests
+```
